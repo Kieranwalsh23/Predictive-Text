@@ -17,3 +17,5 @@ The user will be able to save the text in the text area to a file.
 ### Single click item in prediction to add to text area. (Ensure that the cursor has not been moved and the next word and no letters have been added
 
 
+# How To Run
+## Run gui.py --  python gui.py
